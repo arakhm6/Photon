@@ -6,6 +6,7 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
+    background-color: black;
 }
 header {
     display: flex;
@@ -21,7 +22,7 @@ header h2 {
 
 #logo {
     text-decoration: none;
-    color: black;
+    color:rgb(74, 68, 131);
 }
 
 .search-form {
